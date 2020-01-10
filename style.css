@@ -1,10 +1,12 @@
 .ghead 
 { 
+  position: absolute;
   color : green; 
   text-align : center;
   font-family: cursive;
 }
 .gfoot
 {
-  bottom : 0;
+  position: absolute;
+  bottom: 1;
 }
