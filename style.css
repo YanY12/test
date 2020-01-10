@@ -5,10 +5,13 @@
   font-family: cursive;
   font-size : 20px;
   color : green;
-  margin-left : 500px;
+  margin-left : 470px;
 }
 .gmain
-{ text-align : center; }
+{ 
+text-align : center;
+padding-top : 50px;
+}
 .gfoot
 {
   font-size : 10px;
