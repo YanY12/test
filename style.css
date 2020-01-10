@@ -4,7 +4,7 @@
   text-align : center;
   font-family: cursive;
   font-size : 25px;
-  color : #5354581;
+  color : whait;
   margin-left : 0px;
 }
 .gfoot
@@ -13,4 +13,4 @@
   position: absolute;
   bottom: 1;
 }
-body {background : black;}
+body {background : #5354581;}
