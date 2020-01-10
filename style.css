@@ -1,12 +1,13 @@
 .ghead 
 { 
   position: absolute;
-  color : green; 
   text-align : center;
   font-family: cursive;
+  font-size : 20px;
 }
 .gfoot
 {
+  font-size : 10px;
   position: absolute;
   bottom: 1;
 }
