@@ -17,7 +17,7 @@ body {background : #1f2023;}
 .gmenu {
      background: #2c2f33;
     color: #fff;
-    height: 46px;
+    height: 50px;
     position: relative;
     z-index: 10;
     -webkit-box-align: center;
@@ -27,59 +27,4 @@ body {background : #1f2023;}
     display: -ms-flexbox;
     display: flex;
 }
-.gmenu .logo-container {
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    height: 46px;
-    padding: 0 5px;
-}
-.gmenu .menu-blog {
-    margin-right: 25px;
-}
-.gmenu .menu-icon.trigger {
-    width: 51px;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    cursor: pointer;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-}
-.gmenu .menu-blog.main>span:not(.mobile) {
-    max-width: 275px;
-    min-width: 190px;
-}
-.gmenu .icon-home:before {
-    width: 50px;
-}
-.gmenu .menu-blog.main>span:not(.mobile) span {
-    margin-left: -3px;
-}
-.gmenu .menu-blog>span span {
-    pointer-events: none;
-    margin-left: 10px;
-    margin-right: 25px;
-}
-.gmenu .menu-blog .submenu-triangle:after {
-    font-family: YanY;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-feature-settings: 'liga';
-    font-feature-settings: 'liga';
-    text-transform: none;
-    letter-spacing: normal;
-    content: "";
-    font-size: 16px;
-    line-height: 20px;
-    margin-left: auto;
-    -webkit-transition: -webkit-transform .2s ease-in-out;
-    transition: -webkit-transform .2s ease-in-out;
-    transition: transform .2s ease-in-out;
-    transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out;
-    vertical-align: middle;
-}
+
