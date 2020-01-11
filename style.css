@@ -26,5 +26,6 @@ body {background : #1f2023;}
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    width: 150px;
 }
 
