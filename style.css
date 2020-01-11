@@ -4,7 +4,7 @@
   text-align : center;
   font-family: cursive;
   font-size : 25px;
-  color : #2c2f33;
+  color : white;
   margin-left : 0px;
 }
 .gfoot
@@ -14,3 +14,11 @@
   bottom: 1;
 }
 body {background : #1f2023;}
+.gmenu {
+    position: absolute;
+    top: 0;
+    height: 30px;
+    width: 100%;
+    left: 0;
+    background: #2c2f33;
+}
