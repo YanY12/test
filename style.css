@@ -31,4 +31,16 @@ body {background : #1f2023;}
     right: 10px;
     bottom: 10px;
 }
-
+.ghead .logo {
+    font-size: 15px;
+.ghead .logo {
+    opacity: 1;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed',sans-serif;
+    letter-spacing: 1px;
+    position: relative;
+    font-size: 14px;
+    top: -6px;
+    margin-right: 6px;
+    color: white!important;
+}
