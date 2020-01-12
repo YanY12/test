@@ -57,11 +57,10 @@ header .logo {
     padding-bottom: 300;
 }
 .box2 { 
-    background: #fc0; /* Цвет фона */
-    width: 300px; /* Ширина блока */
-    padding: 10px; /* Поля */
-    margin-top: 10px; /* Отступ сверху */
-    border: 2px solid #000; /* Параметры рамки */
-    -moz-box-sizing: border-box; /* Для Firefox */  
-    box-sizing: border-box; /* Ширина блока с полями */
+    background: #2a2b2f;
+    width: 260px;
+    padding: 10px;
+    border: 2px solid #2c2f33;
+    padding-bottom: 300;
+    margin-top: 10px;
    }
