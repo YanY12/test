@@ -31,9 +31,9 @@ body {background : #1f2023;}
     right: 10px;
     bottom: 10px;
 }
-.ghead .logo {
+header .logo {
     font-size: 15px;
-.ghead .logo {
+header .logo {
     opacity: 1;
     text-transform: uppercase;
     font-family: 'Roboto Condensed',sans-serif;
@@ -44,7 +44,7 @@ body {background : #1f2023;}
     margin-right: 6px;
     color: white!important;
 }
-.ghead a {
+header a {
     text-transform: uppercase;
     font-size: 12px;
 }
