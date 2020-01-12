@@ -33,6 +33,7 @@ body {background : #1f2023;}
 }
 header .logo {
     font-size: 15px;
+  
 header .logo {
     opacity: 1;
     text-transform: uppercase;
@@ -44,6 +45,7 @@ header .logo {
     margin-right: 6px;
     color: white!important;
 }
+  
 header a {
     text-transform: uppercase;
     font-size: 12px;
