@@ -44,3 +44,7 @@ body {background : #1f2023;}
     margin-right: 6px;
     color: white!important;
 }
+.ghead a {
+    text-transform: uppercase;
+    font-size: 12px;
+}
