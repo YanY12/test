@@ -44,7 +44,8 @@ header .logo {
     text-transform: uppercase;
     font-size: 18px;
 }
-.videokek { 
-  margin-top 400px;
-  right: 10px;
+.videokek {
+    top: 200px;
+    right: 10px;
+    position: absolute;
 }
