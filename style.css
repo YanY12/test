@@ -45,4 +45,6 @@ header .logo {
     font-size: 18px;
 }
 .videokek { 
-  margin-top 360px; }
+  margin-top 340px;
+  right: 10px;
+}
