@@ -31,7 +31,7 @@ body {background : #1f2023;}
     right: 10px;
     bottom: 10px;
 }
-header .profile {
+    .profile {
     font-size: 15px;
     opacity: 1;
     text-transform: uppercase;
