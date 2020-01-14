@@ -57,14 +57,14 @@ body {background : #1f2023;}
     padding-bottom: 300;
 }
 .gamelist {
-    border: 2px solid #2c2f33;
-    background: #2a2b2f;
     min-height: 69px;
     height: auto;
     margin-bottom: 4px;
     background: rgba( 0, 0, 0, 0.2 );
     padding: 8px;
     overflow: hidden;
+    border: 2px solid #2c2f33;
+    background: #2a2b2f;
 }
 .gamelistLogo {
     left: 0;
@@ -80,7 +80,6 @@ body {background : #1f2023;}
     position: relative;
 }
 .gamelistItemName {
-    color: #fff;
     font-size: 14px;
     font-weight: normal;
     font-family: "Motiva Sans", Sans-serif;
@@ -90,5 +89,4 @@ body {background : #1f2023;}
 }
 h5.hours_played {
     height: 15px;
-    color: #fff;
 }
