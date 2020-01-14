@@ -57,6 +57,7 @@ body {background : #1f2023;}
     padding-bottom: 300;
 }
 .gamelist {
+    background: #2a2b2f;
     min-height: 69px;
     height: auto;
     margin-bottom: 4px;
