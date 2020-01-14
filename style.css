@@ -60,7 +60,8 @@ body {background : #1f2023;}
     min-height: 69px;
     height: auto;
     margin-bottom: 4px;
-    background: rgba( 0, 0, 0, 0.2 );
+    border: 2px solid #2c2f33;
+    background: #2a2b2f;
     padding: 8px;
     overflow: hidden;
 
