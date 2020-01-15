@@ -77,6 +77,7 @@ body {background : #1f2023;}
     height: 66px;
     padding: 9px;
     position: relative;
+    left: 180;
 }
 .gamelistItemName {
     font-size: 14px;
