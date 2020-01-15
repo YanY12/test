@@ -86,7 +86,9 @@ body {background : #1f2023;}
     font-weight: 300;
     padding: 0px;
     margin: 0;
+    color : #fff;
 }
 h5.hours_played {
     height: 15px;
+    color : #fff;
 }
