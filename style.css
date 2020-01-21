@@ -44,11 +44,7 @@ body {background : #1f2023;}
     text-transform: uppercase;
     font-size: 18px;
 }
-.videokek {
-    top: 60px;
-    right: 10px;
-    position: absolute;
-}
+
 .box1 {
     background: #2a2b2f;
     width: 240px;
