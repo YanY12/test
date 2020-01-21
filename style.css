@@ -46,9 +46,10 @@ body {background : #1f2023;}
 }
 
 .box1 {
+    margin-left: 110px;
     background: #2a2b2f;
-    width: 240px;
+    width: 1100px;
     padding: 10px;
     border: 2px solid #2c2f33;
-    padding-bottom: 300;
+    padding-bottom: 550;
 }
